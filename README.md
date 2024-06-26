@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572132.jpg?t=st=1719419144~exp=1719422744~hmac=78a29f4fcde3be96a0a3f17155191e74ecdd4a5769eba210cbd578ec8a8f336a&w=900" alt="Blockchain Technology Cartoon Illustration" style="max-width: 1%; height: auto;">
+    <img src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572132.jpg?t=st=1719419144~exp=1719422744~hmac=78a29f4fcde3be96a0a3f17155191e74ecdd4a5769eba210cbd578ec8a8f336a&w=900" alt="Blockchain Technology Cartoon Illustration" style="width: 500px; height: auto;">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm M.S.Abhinav Chandra</h1>
 <h3 align="center">A full stack app and web developer from India</h3>
