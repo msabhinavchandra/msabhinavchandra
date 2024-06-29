@@ -23,7 +23,7 @@
 
 
 
-- ⚡ Fun fact **Musician**
+- ⚡ Fun fact **I am a Musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
